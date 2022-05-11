@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaushaljoshi29
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javaScript
+- 👀 I’m interested in front-end development and UI design.
+- 🌱 I’m currently learning javaScript.
 - 💞️ I’m looking to collaborate on Reactjs projects.
 
 <!---
